@@ -1,6 +1,8 @@
 # real-time-chat-app
 The Real-Time Chat Application is a web-based platform that enables users to communicate with each other in real time using text messages. It provides a seamless and interactive chatting experience, fostering instant communication and collaboration between users. The application utilizes HTML, CSS, and JavaScript to create an attractive, user-friendly interface.
+
 Key Features:
+
 User Registration and Authentication: Users can create an account and securely log in to the chat application to access the chat features.
 
 Real-Time Messaging: The application allows users to send and receive messages instantly, providing a smooth and responsive chat experience.
